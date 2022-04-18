@@ -21,6 +21,6 @@ Corre el proyecto con el siguiente comando en tu terminal:
 
 - python src/app.py
 
-El servicor correrá en el puerto 5000
+El servidor correrá en el puerto 5000
 
 - http://127.0.0.1:5000
